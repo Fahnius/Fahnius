@@ -1,5 +1,3 @@
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e9f42d-8f07-4dad-a84d-c31151fb7aae" /><div align="center">
-
 # Hello dear Visitor, I'm Fahnheit
 
 ### 🎓 HTL Student | 💻 Software Developer | 🎮 Game Developer
