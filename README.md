@@ -53,14 +53,13 @@ I'm a student from Austria who enjoys building software applications, exploring 
 
 <img src="https://img.shields.io/badge/My_Favorite_Distro-15A6F0?style=for-the-badge&logoColor=white"/>
 <br>
-<!--
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Zorin_OS.svg](https://logodix.com/zorin)" height="60">
-</p> -->
 
+![Zorin OS](https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white)
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 </div>
 
